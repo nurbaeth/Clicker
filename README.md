@@ -11,7 +11,7 @@
 ## 📦 Installation
 1. Make sure you have Python installed (>=3.6).
 2. Clone this repository:
-   ```sh
+   ```sh 
    git clone https://github.com/yourusername/crypto-clicker.git
    cd crypto-clicker
    ```
