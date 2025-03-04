@@ -13,7 +13,7 @@
 2. Clone this repository:
    ```sh 
    git clone https://github.com/yourusername/crypto-clicker.git
-   cd crypto-clicker
+   cd crypto-clicker 
    ```
 3. Run the script:
    ```sh
