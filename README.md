@@ -12,7 +12,7 @@
 1. Make sure you have Python installed (>=3.6).
 2. Clone this repository:
    ```sh 
-   git clone https://github.com/yourusername/crypto-clicker.git
+   git clone https://github.com/yourusername/crypto-clicker.git 
    cd crypto-clicker 
    ``` 
 3. Run the script:
