@@ -15,7 +15,7 @@
    git clone https://github.com/yourusername/crypto-clicker.git 
    cd crypto-clicker 
    ``` 
-3. Run the script:
+3. Run the script: 
    ```sh
    python crypto_clicker.py
    ```
