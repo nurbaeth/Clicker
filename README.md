@@ -16,7 +16,7 @@
    cd crypto-clicker 
    ``` 
 3. Run the script: 
-   ```sh 
+   ```sh  
    python crypto_clicker.py
    ```
 
